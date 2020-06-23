@@ -6,7 +6,7 @@ This repo contains links to multi-person re-identification and tracking dataset 
 
 The dataset contains 5 hours of video from 5 cameras + almost 4000 manually labeled images in YOLO format.
 
-## [Link](https://drive.google.com/drive/folders/1B9FoDb9s-LAm4OhrObWFTx-cscfixvjk?usp=sharing)
+## [Link](https://drive.google.com/drive/folders/1mZ4oZNJv8DA4egDv0cRhhZbSUJ2ZNaYw?usp=sharing)
 
 ## Citation
 
