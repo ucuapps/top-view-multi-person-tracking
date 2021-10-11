@@ -8,6 +8,8 @@ The dataset contains 5 hours of video from 5 cameras + almost 4000 manually labe
 
 ## [Link](https://drive.google.com/drive/folders/1mZ4oZNJv8DA4egDv0cRhhZbSUJ2ZNaYw?usp=sharing)
 
+## [Person re-identiﬁcation in a top-view multi-camera environment](https://er.ucu.edu.ua/bitstream/handle/1/1903/Prodaiko_Person%20Re-identification.pdf)
+
 ## Citation
 
 ```
